@@ -7,7 +7,7 @@ const data = [
     image: Image1,
     title: "Planet Shopify (PHP)",
     desc: "Introducing Planet Shopify: a state-of-the-art PHP e-commerce platform for seamless shopping. Browse fashion, electronics, and more effortlessly with our intuitive user-friendly interface.",
-    demo: "https://mohamedabd02.github.io/ecommerce.github.io/",
+    demo: "https://planetshopify0.000webhostapp.com/",
     github: "https://github.com/mohamedabd02/ecommerce.github.io",
   },
 ];
